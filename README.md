@@ -20,6 +20,7 @@ This project simulates a small business communication workflow where different t
 ---
 
 ## Project Structure
+<pre>
 project/
 │
 ├── data/
@@ -34,6 +35,7 @@ project/
 │ └── messages/
 │
 └── main.py
+</pre>
 
 ---
 

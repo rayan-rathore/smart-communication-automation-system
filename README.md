@@ -74,6 +74,7 @@ The system automatically replaces placeholders like `[customer_name]` and `[orde
 ORD-9244_order.txt
 
 Generated message:
+<img width="889" height="374" alt="image" src="https://github.com/user-attachments/assets/a06086aa-ae99-4eb7-b1c0-bdad67c10f04" />
 
 ---
 
@@ -98,20 +99,4 @@ This project helped me practice:
 - Building CLI tools
 - Implementing a simple templating system
 
----
 
-## Future Improvements
-
-Possible future enhancements:
-
-- Email integration for sending messages
-- GUI interface
-- Database integration
-- Logging system
-- Status-based automatic messaging
-
----
-
-## Author
-
-Built as a learning project while exploring Python automation and software development fundamentals.

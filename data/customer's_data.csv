@@ -1,0 +1,11 @@
+customer_name,order_id,product,pcs,price,state,date,transport,lr_no,status
+Rajesh Kumar,ORD-8821,SoftScrub Loofah,200,18,Maharashtra,08-03-2026,Blue Dart,BD66210,order
+Ananya Iyer,ORD-9014,SilkMesh Exfoliating Loofah,240,15,Tamil Nadu,10-03-2026,Delhivery,DLV0091,order
+Vikram Singh,ORD-8752,FreshFoam Bath Loofah,300,17,Uttar Pradesh,12-03-2026,DTDC,DT77321,payment
+Megha Gupta,ORD-9120,PureGlow Bath Loofah,240,21,Gujarat,13-03-2026,Gati,GT44109,order
+Rohan Mehra,ORD-8903,DailyCare Nylon Loofah,500,13,Delhi,15-03-2026,Ecom Express,EX11023,order
+Sneha Patil,ORD-9244,SkinRevive Shower Loofah,600,12,Karnataka,17-03-2026,Xpressbees,XB55670,order
+Arjun Das,ORD-8839,GentleTouch Body Loofah,750,10,West Bengal,19-02-2026,Blue Dart,BD66455,payment
+Kavita Reddy,ORD-9055,FoamRich Bath Loofah,550,8,Telangana,22-02-2026,Delhivery,DLV0142,order
+Rahul Sharma,ORD-8766,SmoothSkin Exfoliating Loofah,850,10,Punjab,25-02-2026,DTDC,DT77488,order
+Pooja Mishra,ORD-9112,AquaFresh Bath Loofah,900,9,Madhya Pradesh,27-02-2026,Shiprocket,SR22901,order

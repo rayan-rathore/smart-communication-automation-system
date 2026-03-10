@@ -1,0 +1,17 @@
+Hello [customer_name],
+
+Thank you for your payment.
+
+We have dispatched your order as per details below:
+
+Order ID : [order_id]
+Transport: [transport]
+LR No.: [lr_no]
+Expected delivery: [date]
+
+Looking forward to working with you again.
+
+Please feel free to contact us if any assistance is required.
+
+Regards,
+AD Enterprises

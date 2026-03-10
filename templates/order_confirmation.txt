@@ -1,0 +1,18 @@
+Hello [customer_name],
+
+Thank you for confirming your order with us.
+
+Order Details:
+• Order ID : [order_id]
+• Product: [product]
+• Quantity: [pcs]
+• Rate: [price]
+• Total Value: [total]
+
+Delivery Location: [state]
+Expected Dispatch: [date]
+
+Please confirm the above details so we can proceed with production/dispatch.
+
+Regards,
+AD Enterprises

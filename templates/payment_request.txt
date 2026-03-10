@@ -1,0 +1,15 @@
+Hello [customer_name],
+
+Your order is ready for dispatch.
+
+Order summary:
+• Order ID : [order_id]
+• Total Amount: [total]
+
+Kindly arrange the payment so we can proceed with dispatch.
+
+Dispatch will be scheduled immediately after payment confirmation.
+
+Thank you.
+Regards,
+AD Enterprises
